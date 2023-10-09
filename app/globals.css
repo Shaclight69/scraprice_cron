@@ -114,10 +114,10 @@
   .nav {
     @apply flex justify-between items-center px-6 md:px-20 py-4;
   }
-
+  /* 
   .nav-logo {
-    @apply font-spaceGrotesk text-[21px] text-secondary font-bold;
-  }
+    @apply font-AR_One_Sans text-[21px] text-secondary font-bold;
+  } */
 
   /* PRICE INFO */
   .price-info_card {
